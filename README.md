@@ -29,7 +29,7 @@ Users should be able to:
 
 ### What I learned
 
-I have learned the usefulness of picture HTML element
+I have learned about the usefulness of the <picture> HTML element.
 
 ## Author
 
