@@ -109,6 +109,24 @@ img {
 }
 
 
+.attribution {
+    font-size: 1em;
+    text-align: center;
+    color: #000;
+    padding-top: 10px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: var(--color-cream)
+}
+
+@media only screen and (max-height: 740px) {
+    .attribution {
+        position: static;
+    }
+}
+
 @media only screen and (min-width: 800px) {
     .main-container {
         display: flex;
