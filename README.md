@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site](http://toxa-dev.github.io/frontendmentor.io-04-order-summary-component)
+- Live Site URL: [Live site](http://toxa-dev.github.io/frontendmentor.io-05-product-preview-card-component/settings/pages)
 
 ## My process
 
